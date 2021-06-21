@@ -1,5 +1,7 @@
 # supybot-soccer
 
+[![Python 3.6+](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/release/python-360/)
+[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/paultownsend/supybot-soccer/master.svg)](https://results.pre-commit.ci/latest/github/paultownsend/supybot-soccer/master)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
