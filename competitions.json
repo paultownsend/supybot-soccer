@@ -87,6 +87,10 @@
         "id": "usa.1",
         "name": "Major League Soccer"
     },
+    "olympics": {
+        "id": "fifa.olympics",
+        "name": "Men's Olympic Tournament"
+    },
     "ppl": {
         "id": "por.1",
         "name": "Portugese Primeira Liga"
