@@ -119,6 +119,10 @@
         "id": "uefa.champions_qual",
         "name": "UEFA Champions League Qualifying"
     },
+    "uecl": {
+        "id": "uefa.europa.conf",
+        "name": "UEFA Europa Conference League"
+    },
     "ueclq": {
         "id": "uefa.europa.conf_qual",
         "name": "UEFA Europa Conference League Qualifying"
