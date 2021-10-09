@@ -134,5 +134,17 @@
     "usoc": {
         "id": "usa.open",
         "name": "United States Open Cup"
+    },
+    "wcq-concacaf": {
+      "id": "fifa.worldq.concacaf",
+      "name": "FIFA World Cup Qualifying - CONCACAF"
+    },
+    "wcq-conmebol": {
+      "id": "fifa.worldq.conmebol",
+      "name": "FIFA World Cup Qualifying - CONMEBOL"
+    },
+    "wcq-uefa": {
+      "id": "fifa.worldq.uefa",
+      "name": "FIFA World Cup Qualifying - UEFA"
     }
 }
